@@ -28,3 +28,5 @@ Hold Zenta Token and earn more.
 
 Full controlled by customer and user.
 
+Zentadex will never holds your funds.
+
