@@ -5,7 +5,7 @@
 
 
 
-````
+```
 Make trades without giving up your personal information.
 
 Save time, avoid fees, and maintain custody of your tokens.
@@ -29,4 +29,8 @@ Hold Zenta Token and earn more.
 Full controlled by customer and user.
 
 Zentadex will never holds your funds.
+
+No middle men.
+
+```
 
