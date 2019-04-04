@@ -22,6 +22,10 @@ Simple Listing Process.
 
 Low trade fees.
 
+Dark Version.
+
+Tor --
+
 No trading fees with Zenta Token.
 
 Hold Zenta Token and earn more.
