@@ -50,3 +50,5 @@ You are not required to trust the security or honesty of the exchange since the 
 Another advantage to the decentralized model is the privacy it provides.
 Users are not required to disclose their personal details to anyone, except if the exchange method involves bank transfers,
 in which case your identity is revealed only to the person that is selling or buying from you.
+
+##### *Copyright all rights reserved Zentachain.io
