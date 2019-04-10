@@ -3,7 +3,7 @@
 
 ### Zentadex is a decentralized exchange for crypto fully controlled by customer and user.
 
-
+Feature;
 
 ```
 Make trades without giving up your personal information.
@@ -24,8 +24,6 @@ Low trade fees.
 
 Dark Version.
 
-Tor --
-
 No trading fees with Zenta Token.
 
 Hold Zenta Token and earn more.
@@ -35,6 +33,8 @@ Full controlled by customer and user.
 Zentadex will never holds your funds.
 
 No middle men.
+
+Tor routing protocol.
 
 ```
 
