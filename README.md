@@ -6,35 +6,37 @@
 Feature;
 
 ```
-Make trades without giving up your personal information.
+
+Integrate your existing Ethereum wallets with a single click.
 
 Save time, avoid fees, and maintain custody of your tokens.
+
+Make trades without giving up your personal information.
 
 Use the token view to manage and track your portfolio.
 
 Send tokens between wallets quickly.
 
-Integrate your existing Ethereum wallets with a single click.
+Full controlled by customer and user.
+
+Zentadex will never holds your funds.
 
 Secure Trading No Deposit Required.
-
-Simple Listing Process.
-
-Low trade fees.
-
-Dark Version.
 
 No trading fees with Zenta Token.
 
 Hold Zenta Token and earn more.
 
-Full controlled by customer and user.
+Simple Listing Process.
 
-Zentadex will never holds your funds.
+Tor routing protocol.
+
+Low trade fees.
 
 No middle men.
 
-Tor routing protocol.
+Dark Version.
+
 
 ```
 
