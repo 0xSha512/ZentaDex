@@ -29,7 +29,7 @@ Hold Zenta Token and earn more.
 
 Simple Listing Process.
 
-Tor routing protocol.
+Tor routing protocol (Onion-Routing).
 
 Low trade fees.
 
